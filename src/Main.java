@@ -5,8 +5,8 @@ class Main {
         System.out.println("IP1 in binario: " + ip.getDottedBinary());
         System.out.println();
 
-        /*ip = new Address(-1062731775);
+        ip = new Address(-1062731775);
         System.out.println("IP2: " + ip.getDecimalDottedQuad());
-        System.out.println("IP2 in binario: " + ip.getDottedBinary());*/
+        System.out.println("IP2 in binario: " + ip.getDottedBinary());
     }
 }
